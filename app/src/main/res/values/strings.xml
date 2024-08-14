@@ -1,0 +1,24 @@
+<resources>
+    //Strings for Text on buttons
+    <string name="app_name">VisiBell</string>
+    <string name="text_Btn_Read">R</string>
+    <string name= "text_btn_backread">Back</string>
+    <string name= "text_btn_find">F</string>
+    <string name= "text_btn_read">R</string>
+    <string name= "text_bt_backfind">Back</string>
+
+
+    //Strings for Talkback
+    <string name="back_button_label_in_Read_Activity">Back button</string>
+    <string name="phone_call_button_in_Read_Activity">Try to call someone</string>
+    <string name="Image_Read">picture of letters</string>
+    <string name="Image_Find">picture of a room</string>
+    <string name="Find_Button">Find button</string>
+    <string name="Read_Button">Read button</string>
+    <string name="Menu_Button">Menu button</string>
+    <string name="Enter_Name_Login">Please enter your name here</string>
+    <string name="find_button_label_in_Read_Activity">Back button</string>"
+    <string name="doorbell_image">Picture of doorbell</string>
+    <string name= "audio_description_button">Audio Description, press button for general audio description of the app</string>
+
+</resources>

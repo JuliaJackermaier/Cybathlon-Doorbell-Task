@@ -127,14 +127,14 @@ public class ReadActivity extends AppCompatActivity {
 
     private List<Rect> getExpectedFieldPositions() {
         List<Rect> expectedPositions = new ArrayList<>();
-        expectedPositions.add(new Rect(330, 600, 1600, 950));  // Field 1
-        expectedPositions.add(new Rect(330, 1050, 1600, 1380));  // Field 2
-        expectedPositions.add(new Rect(330, 1475, 1600, 1793));  // Field 3
-        expectedPositions.add(new Rect(330, 1890, 1600, 2207));  // Field 4
-        expectedPositions.add(new Rect(2950, 600, 4200, 950));  // Field 5
-        expectedPositions.add(new Rect(2950, 1050, 4200, 1380));  // Field 6
-        expectedPositions.add(new Rect(2950, 1475, 4200, 1793));  // Field 7
-        expectedPositions.add(new Rect(2950, 1890, 4200, 2207));  // Field 8
+        expectedPositions.add(new Rect(340, 370, 1280, 760));  // Field 1
+        expectedPositions.add(new Rect(340, 884, 1280, 1260));  // Field 2
+        expectedPositions.add(new Rect(340, 1385, 1280, 1782));  // Field 3
+        expectedPositions.add(new Rect(340, 1907, 1280, 2300));  // Field 4
+        expectedPositions.add(new Rect(3366, 370, 4320, 760));  // Field 5
+        expectedPositions.add(new Rect(3366, 884, 4320, 1260));  // Field 6
+        expectedPositions.add(new Rect(3366, 1385, 4320, 1782));  // Field 7
+        expectedPositions.add(new Rect(3366, 1907, 4320, 2300));  // Field 8
         return expectedPositions;
     }
 
